@@ -70,7 +70,7 @@ main {
   justify-content: space-between;
   align-items: center;
   /* background-image: url(./Images/search-icon.svg); */
-  background-image: url(./Images/search-icon.svg);
+  background-image: url(./search-icon.svg);
   background-repeat: no-repeat;
   background-position-x: 24px;
   background-position-y: center;
