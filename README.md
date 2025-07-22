@@ -27,5 +27,5 @@ DevDetective is a sleek web application that allows users to search for any GitH
 - CSS
 - JavaScript (Vanilla)
 - GitHub REST API
-- Responsive Design (Mobile Friendly)
+  
 
